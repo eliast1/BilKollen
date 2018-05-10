@@ -1,0 +1,13 @@
+c:\users\elias\documents\visual studio 2015\Projects\BilKollen\BilKollen\bin\Debug\BilKollen.exe.config
+c:\users\elias\documents\visual studio 2015\Projects\BilKollen\BilKollen\bin\Debug\BilKollen.exe
+c:\users\elias\documents\visual studio 2015\Projects\BilKollen\BilKollen\bin\Debug\BilKollen.pdb
+c:\users\elias\documents\visual studio 2015\Projects\BilKollen\BilKollen\bin\Debug\System.Net.Http.Formatting.dll
+c:\users\elias\documents\visual studio 2015\Projects\BilKollen\BilKollen\bin\Debug\System.Net.Http.Formatting.xml
+c:\users\elias\documents\visual studio 2015\Projects\BilKollen\BilKollen\obj\Debug\BilKollen.csprojResolveAssemblyReference.cache
+c:\users\elias\documents\visual studio 2015\Projects\BilKollen\BilKollen\obj\Debug\BilKollen.Form1.resources
+c:\users\elias\documents\visual studio 2015\Projects\BilKollen\BilKollen\obj\Debug\BilKollen.Properties.Resources.resources
+c:\users\elias\documents\visual studio 2015\Projects\BilKollen\BilKollen\obj\Debug\BilKollen.csproj.GenerateResource.Cache
+c:\users\elias\documents\visual studio 2015\Projects\BilKollen\BilKollen\obj\Debug\BilKollen.exe
+c:\users\elias\documents\visual studio 2015\Projects\BilKollen\BilKollen\obj\Debug\BilKollen.pdb
+C:\Users\Elias\documents\visual studio 2015\Projects\BilKollen\BilKollen\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Elias\documents\visual studio 2015\Projects\BilKollen\BilKollen\bin\Debug\Newtonsoft.Json.xml
